@@ -1,0 +1,12 @@
+f4ea5aeed3deb25d0845b4d4fee6d30a *DESCRIPTION
+383cbc2cf473d819db8400d74b87163f *NAMESPACE
+af983b17bc361c2eabfe81ef9298b3fb *R/fisher.R
+cf8693b9fe138383f2e5ee06fb256d09 *R/gaussianize.R
+344eacd6c75f0b7c271f51a567d01f15 *R/m_effective.R
+f17d36ef0bb9ab579817f297fee9f1e7 *R/poolVIM.R
+b43b9a931e624349c451652d06b82a11 *R/tippett.R
+efc8438333dd401811b95977cd0a050a *man/fisher.Rd
+a06a12d6bc7b42173537c8bf97aa5713 *man/gaussianize.Rd
+453beaffdbcafc652b924a024da7324e *man/m_effective.Rd
+a9e5b1cb4eed9f9e36b362de96b81702 *man/poolVIM.Rd
+3e9670b9db324b59815af184e4513628 *man/tippett.Rd
